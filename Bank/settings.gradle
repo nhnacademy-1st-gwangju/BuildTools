@@ -1,5 +1,0 @@
-rootProject.name = 'Bank'
-include 'Server'
-include 'Domain'
-include 'Client'
-

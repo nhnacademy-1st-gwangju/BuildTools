@@ -1,0 +1,6 @@
+rootProject.name = 'Bank'
+include 'Client'
+include 'Server'
+include 'Domain'
+include 'App'
+
